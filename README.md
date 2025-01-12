@@ -140,7 +140,7 @@ You'll notice that the search bar styling is a bit wacky, that's because the sea
                     --grey0: #F2F2F2;
                     --grey1: #A6A6A6;
                     --grey2: #F2F2F2;
-                    --grey3: #474747;
+                    --grey3: #A6A6A6;
                     --grey4: #A6A6A6;
                     --grey5: #686868;
                     --grey6: #A6A6A6;
@@ -156,6 +156,7 @@ You'll notice that the search bar styling is a bit wacky, that's because the sea
                     --red: #f02525;
                     --yellow: #FFDC15;
                     --green: #7FC724;
+                    --whitergb: 37 37 37;
                   }
 
                   .gh-portal-btn {
